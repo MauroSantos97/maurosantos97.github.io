@@ -101,7 +101,10 @@ header .user img{
     border:.7rem solid var(--coral);
 }
 
-
+header .user .name{
+    font-size: 3.5rem;
+    color:#2596be;
+}
 
 header .user .post{
     font-size: 2rem;
@@ -162,7 +165,7 @@ header .navbar ul li a:hover{
 }
 
 .home h1 span{
-    color:#FF7F50;
+    color:#2596be;
 }
 
 .home p{
