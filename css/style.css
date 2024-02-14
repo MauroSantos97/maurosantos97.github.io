@@ -181,13 +181,10 @@ header .navbar ul li a:hover{
     padding:0 15rem;
 }
 
-.experience h3{
+.experience h2{
     color:#fff;
 }
 
-.experience h4{
-    color:#fff;
-}
 .experience h1{
     font-size:5rem;
     color:#fff;
@@ -206,19 +203,6 @@ header .navbar ul li a:hover{
     color:#eee;
     padding: 1rem 0;
 }
-
-.experience li{
-    font-size:2rem;
-    color:#eee;
-    padding: 1rem 0;
-}
-
-.experience ul{
-    font-size:2rem;
-    color:#eee;
-    padding: 1rem 0;
-}
-
 
 .about .row{
     display: flex;
