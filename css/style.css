@@ -189,12 +189,29 @@ header .navbar ul li a:hover{
     color:#fff;
 }
 
+.experience h2{
+    font-size:4rem;
+    color:#fff;
+}
+
 .experience h3 span{
     color:#2596be;
 }
 
 .experience h2 span{
     color:#2596be;
+}
+
+.experience p{
+    font-size:2rem;
+    color:#eee;
+    padding: 1rem 0;
+}
+
+.experience ul{
+    font-size:2rem;
+    color:#eee;
+    padding: 1rem 0;
 }
 
 .experience p{
