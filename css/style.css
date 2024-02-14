@@ -101,10 +101,7 @@ header .user img{
     border:.7rem solid var(--coral);
 }
 
-header .user .name{
-    font-size: 3.5rem;
-    color:#2596be;
-}
+
 
 header .user .post{
     font-size: 2rem;
