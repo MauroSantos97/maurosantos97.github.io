@@ -182,7 +182,6 @@ header .navbar ul li a:hover{
 }
 
 .experience h3{
-    font-size: 2.5rem;
     color:#fff;
 }
 
@@ -205,6 +204,12 @@ header .navbar ul li a:hover{
 }
 
 .experience li{
+    font-size:2rem;
+    color:#eee;
+    padding: 1rem 0;
+}
+
+.experience ul{
     font-size:2rem;
     color:#eee;
     padding: 1rem 0;
